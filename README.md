@@ -9,7 +9,7 @@ Project 1: Turning on LED
 7. Connect resistor to other end of 2nd wire
 
 Diagram:
-![diagram](https://imgur.com/tRoFlW9)
+https://imgur.com/tRoFlW9
 
 Note: Connecting components
 
@@ -23,4 +23,4 @@ Horizontally:
 
 Video:
 
-![video](https://gfycat.com/HeftyEnchantedFieldmouse)
+https://gfycat.com/HeftyEnchantedFieldmouse
