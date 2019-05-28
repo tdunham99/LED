@@ -19,14 +19,14 @@ try:
         while count < blinkCount:
                 GPIO.output(yellow, True)
                 GPIO.output(green, False)
-		GPIO.output(red, True)
-		GPIO.output(blue, False)
+		GPIO.output(red, False)
+		GPIO.output(blue, True)
                 print("GROUP 1 ON")
                 sleep(2)
                 GPIO.output(yellow, False)
                 GPIO.output(green, True)
-		GPIO.output(red, False)
-		GPIO.output(blue, True)
+		GPIO.output(red, True)
+		GPIO.output(blue, False)
                 print("Group 2 ON")
                 sleep(2)
                 count += 1
