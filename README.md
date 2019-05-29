@@ -21,6 +21,7 @@ Horizontally:
 - Have the components on top
 - NOT side-by-side
 
-Video:
+Videos:
 
 https://gfycat.com/HeftyEnchantedFieldmouse
+https://gfycat.com/PoliticalScholarlyAllensbigearedbat
